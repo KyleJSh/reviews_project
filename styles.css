@@ -150,7 +150,7 @@ main {
   position: relative;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 40%;
   margin: 0 auto;
   margin-bottom: 1.5rem;
 }
@@ -175,7 +175,7 @@ main {
   height: 2.5rem;
   display: grid;
   place-items: center;
-  border-radius: 50%;
+  border-radius: 40%;
   transform: translateY(25%);
   background: var(--clr-primary-5);
   color: var(--clr-white);
